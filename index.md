@@ -1,4 +1,4 @@
 ---
-title: Welcome to 菩提大仙的盘丝洞---水帘洞
+title: Welcome to my page
 ---
 
